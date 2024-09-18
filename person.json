@@ -1,0 +1,52 @@
+{
+  "persons": [
+    {
+      "id": "104",
+      "name": "Alice",
+      "surname": "Brown",
+      "age": 35,
+      "salary": 850000,
+      "city": "Houston TX"
+    },
+    {
+      "id": "105",
+      "name": "Mike",
+      "surname": "Davis",
+      "age": 28,
+      "salary": 600000,
+      "city": "Philadelphia PA"
+    },
+    {
+      "id": "106",
+      "name": "Spartak",
+      "surname": "Akulyan",
+      "age": 22,
+      "salary": 65000,
+      "city": "Masiv AM"
+    },
+    {
+      "id": "5e2b",
+      "name": "asd",
+      "surname": "w",
+      "age": "12",
+      "salary": "12",
+      "city": "123"
+    },
+    {
+      "id": "98b3",
+      "name": "asd",
+      "surname": "xz",
+      "age": "3244324235",
+      "salary": "65786787686",
+      "city": "asd"
+    },
+    {
+      "id": "470b",
+      "name": "asd",
+      "surname": "asd",
+      "age": "1213",
+      "salary": "123",
+      "city": "asd"
+    }
+  ]
+}
